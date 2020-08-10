@@ -3,7 +3,7 @@ this is the best nodejs in termux
 
 # please insert this codes in termux 
 
-gpk upate && gpk upgrade -y
+pkg upate && pkg upgrade -y
 apt update && apt upgrade -y
 apt install nano -y
 apt install nodejs -y

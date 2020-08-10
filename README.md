@@ -9,7 +9,6 @@ apt install nano -y &&
 apt install nodejs -y &&
 apt install git -y &&
 apt install wget -y &&
-apt install npm -y &&
 git clone https://github.com/hakamimmmm/termux-nodejs &&
 cd hakamimmmm/termux-nodejs &&
 npm init &&

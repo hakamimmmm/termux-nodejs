@@ -1,0 +1,1 @@
+const app = require('express')() ;app.get( '/', function(req, res) {        res.send( 'Hello node hhhhhh');});app.listen(3000);

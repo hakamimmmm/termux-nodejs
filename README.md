@@ -10,7 +10,7 @@ apt install nodejs -y &&
 apt install git -y &&
 apt install wget -y &&
 git clone https://github.com/hakamimmmm/termux-nodejs &&
-cd hakamimmmm && cd termux-nodejs &&
+cd hakamimmmm && cd termux* &&
 npm init &&
 npm install express -only=prod &&
 npm install express -only=prod -save &&
